@@ -1,0 +1,8 @@
+spring.application.name: springboot-graphql-dgs
+
+dgs:
+  graphql:
+    schema-locations:
+      - "classpath*:graphql/**/*.graphqls"
+
+

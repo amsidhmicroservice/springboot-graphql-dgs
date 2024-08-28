@@ -1,0 +1,5 @@
+type Employee {
+    id: Int,
+    name: String
+    emailId: String
+}
